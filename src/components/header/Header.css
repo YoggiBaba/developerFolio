@@ -43,6 +43,7 @@
 }
 
 .header .logo {
+  cursor: pointer;
   display: block;
   flex: none;
   float: left;
