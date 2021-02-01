@@ -1,6 +1,5 @@
 {
-  "homepage": "https://YoggiBaba.github.io/developerFolio",
-  "name": "YoggiBaba.github.io",
+  "homepage": "https://yogeshhrathod.github.io/developerFolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +21,7 @@
     "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

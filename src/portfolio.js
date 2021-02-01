@@ -199,9 +199,9 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: 'Ubisoft GameJam 2019 3rd prize',
+      title: '3rd prize Ubisoft GameJam 2018',
       subtitle:
-        'Test',
+        'It was the competion for creating a 3d puzzle game in 24 hour in team of 5 ',
       image: require('./assets/images/ubisoft.png'),
       footerLink: [
         // {
@@ -221,19 +221,19 @@ const achievementSection = {
         // },
       ],
     },
-    // {
-    //   title: 'Credence 17 1st prize',
-    //   subtitle:
-    //     'Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.',
-    //   image: require('./assets/images/googleAssistantLogo.webp'),
-    //   footerLink: [
-    //     {
-    //       name: 'View Google Assistant Action',
-    //       url:
-    //         'https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en',
-    //     },
-    //   ],
-    // },
+    {
+      title: ' 1st prize Credenz\'17',
+      subtitle:
+        'Won the 1st prize at Credenz\'17 project competion, Credenz is the annual technical festival organised by the PICT ',
+      image: require('./assets/images/credenze.png'),
+      footerLink: [
+        // {
+        //   name: 'View Google Assistant Action',
+        //   url:
+        //     'https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en',
+        // },
+      ],
+    },
 
     // {
     //   title: 'PWA Web App Developer',
