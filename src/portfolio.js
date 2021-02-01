@@ -50,6 +50,26 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: 'reactjs',
+      fontAwesomeClassname: 'fab fa-react',
+    },
+    {
+      skillName: 'Vuejs',
+      fontAwesomeClassname: 'fab fa-vuejs',
+    },
+    {
+      skillName: 'Angular',
+      fontAwesomeClassname: 'fab fa-angular',
+    },
+    {
+      skillName: 'nodejs',
+      fontAwesomeClassname: 'fab fa-node',
+    },
+    {
+      skillName: 'npm',
+      fontAwesomeClassname: 'fab fa-npm',
+    },
+    {
       skillName: 'html-5',
       fontAwesomeClassname: 'fab fa-html5',
     },
@@ -65,22 +85,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: 'JavaScript',
       fontAwesomeClassname: 'fab fa-js',
     },
-    {
-      skillName: 'reactjs',
-      fontAwesomeClassname: 'fab fa-react',
-    },
-    {
-      skillName: 'Vuejs',
-      fontAwesomeClassname: 'fab fa-vuejs',
-    },
-    {
-      skillName: 'nodejs',
-      fontAwesomeClassname: 'fab fa-node',
-    },
-    {
-      skillName: 'npm',
-      fontAwesomeClassname: 'fab fa-npm',
-    },
+    
     {
       skillName: 'PostgreSQL',
       fontAwesomeClassname: 'fas fa-database',
@@ -90,8 +95,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-aws',
     },
     {
-      skillName: 'firebase',
-      fontAwesomeClassname: 'fas fa-fire',
+      skillName: 'python',
+      fontAwesomeClassname: 'fab fa-python',
+    },
+    {
+      skillName: 'java',
+      fontAwesomeClassname: 'fab fa-java',
     },
     {
       skillName: 'python',

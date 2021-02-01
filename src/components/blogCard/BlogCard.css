@@ -69,6 +69,10 @@
   z-index: 0;
   overflow: hidden;
   height: 100%;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
+}
+.blog-card:hover{
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
 }
 
 .blog-card::before {
@@ -99,6 +103,10 @@
   transition: all 0.3s ease-out;
   color: #ffffff;
 }
+.blog-card-outline {
+  border: 1px solid rgba(211, 211, 211, 0.397);
+}
+
 
 @media screen and (max-width: 480px) and (min-width: 300px),
   (min-width: 925px) and (max-width: 1024px),
@@ -141,7 +149,4 @@
   .blog-title {
     font-size: 18px;
   }
-}
-.blog-card-shadow {
-  box-shadow: 1px 0px 20px #ffffff;
 }
