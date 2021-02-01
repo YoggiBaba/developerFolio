@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72baeaed9fba42c0167cd6661fac65a6",
+    "revision": "fab5b8eb0411015c2ef11dcef992b6c5",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "42682c97e6a0272461ff",
-    "url": "/developerFolio/static/css/3.3a26ebde.chunk.css"
+    "revision": "fcb327647d4b0892a8d1",
+    "url": "/developerFolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "44bced7fdd6caf520074",
-    "url": "/developerFolio/static/css/4.21259c32.chunk.css"
+    "revision": "e0563d3c2306f6253309",
+    "url": "/developerFolio/static/css/4.19dfc3d0.chunk.css"
   },
   {
-    "revision": "b633fc8b47224834c161",
-    "url": "/developerFolio/static/css/main.fed0e925.chunk.css"
+    "revision": "2f0c6f396594cb31eb1c",
+    "url": "/developerFolio/static/css/main.d816a1b0.chunk.css"
   },
   {
     "revision": "fc479557ddf27e978718",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/2.1abd96e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42682c97e6a0272461ff",
+    "revision": "fcb327647d4b0892a8d1",
     "url": "/developerFolio/static/js/3.b7c90469.chunk.js"
   },
   {
-    "revision": "44bced7fdd6caf520074",
-    "url": "/developerFolio/static/js/4.50063e6d.chunk.js"
+    "revision": "e0563d3c2306f6253309",
+    "url": "/developerFolio/static/js/4.0c694efd.chunk.js"
   },
   {
-    "revision": "b633fc8b47224834c161",
-    "url": "/developerFolio/static/js/main.34fc5d00.chunk.js"
+    "revision": "2f0c6f396594cb31eb1c",
+    "url": "/developerFolio/static/js/main.4506a487.chunk.js"
   },
   {
-    "revision": "fdc2b6e5ca974a67e33e",
-    "url": "/developerFolio/static/js/runtime-main.17b17e13.js"
+    "revision": "555faa5cb5e962511b97",
+    "url": "/developerFolio/static/js/runtime-main.d9677370.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/skill.34409398.svg"
   },
   {
-    "revision": "39eff4a91b01e00a32cb78f3797eec88",
-    "url": "/developerFolio/static/media/talksCardBack.39eff4a9.svg"
+    "revision": "13780cdd0144cacdef25486e2c2503f8",
+    "url": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
   },
   {
     "revision": "d3a26928d532e6ed8d8c872ba6075540",
