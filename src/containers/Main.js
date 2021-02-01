@@ -23,16 +23,20 @@ export default class Main extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      isDark: false,
+      isDark: JSON.parse(localStorage.getItem('isDark'))
     };
   }
 
   componentDidMount() {
-    const darkPref = window.matchMedia("(prefers-color-scheme: dark)");
-    this.setState({ isDark: darkPref.matches });
+    // const darkPref = window.matchMedia("(prefers-color-scheme: dark)");
+    this.setState({ isDark: JSON.parse(localStorage.getItem('isDark'))});
+    console.log({state:this.state.isDark,ls:JSON.parse(localStorage.getItem('isDark'))});
   }
   changeTheme = () => {
-    this.setState({ isDark: !this.state.isDark });
+    this.setState({ isDark: !this.state.isDark },()=>{
+      localStorage.setItem('isDark',this.state.isDark)
+      console.log({ls:localStorage.getItem('isDark')});
+    });
   };
 
   render() {
